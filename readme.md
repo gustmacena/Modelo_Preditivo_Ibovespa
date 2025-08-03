@@ -1,6 +1,5 @@
 **Modelo Preditivo IBOVESPA**  
-Tech Challenge Fase II – FIAP Pós Tech em Data Analytics  
-Equipe: [Nome dos Integrantes]  
+Tech Challenge Fase II – FIAP Pós Tech em Data Analytics
 
 ---
 
@@ -81,15 +80,10 @@ Este repositório reúne todo o trabalho desenvolvido em grupo para o Tech Chall
 7. **Resultados e Métricas**  
    - Matriz de Confusão, Curva ROC/AUC, Precisão, Recall e F1-Score.
 
-## 👥 Equipe
-- **[Nome Integrante 1]** – Análise de dados e feature engineering
-- **[Nome Integrante 2]** – Modelagem e validação
-- **[Nome Integrante 3]** – Documentação e apresentação
-
 ## 📑 Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-> Para dúvidas ou sugestões, abra uma issue ou entre em contato através do e-mail: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+> Para dúvidas ou sugestões, abra uma issue ou entre em contato através do e-mail: [gustavoaraujomacena@gmail.com](mailto:gustavoaraujomacena@gmail.com)
 
